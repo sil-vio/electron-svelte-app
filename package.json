@@ -29,6 +29,8 @@
 		"svelte": "^3.0.0"
 	},
 	"dependencies": {
+		"file-saver": "^2.0.2",
+		"stream-to-blob": "^2.0.0",
 		"ytdl-core": "^1.0.5"
 	}
 }
