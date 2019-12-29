@@ -1,0 +1,9 @@
+productName: "nome app"
+appId: "my.app.id"
+
+# Package app code into a asar archive. Set to false to debug issues.
+asar: true
+
+win:
+  target:
+    - "portable"
